@@ -1,6 +1,7 @@
 {
   "name": "Some Test Jetton",
   "symbol": "wTEST",
+  "decimals": "0",
   "image": "https://github.com/delusion-labs/doomsday-image-resources/blob/main/WOOD.png",
   "description": "This is a test jetton! We are testing the jetton minter! And this is a description! A long one!",
 }

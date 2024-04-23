@@ -1,1 +1,6 @@
-{"name":"WOOD Token","description":"Long wood token description that allows us explain what it needed for", "symbol":"WOOD" "image":"https://github.com/delusion-labs/doomsday-image-resources/blob/main/WOOD.png", "decimals":0}
+{
+  "name": "Some Test Jetton",
+  "symbol": "wTEST",
+  "image": "https://github.com/delusion-labs/doomsday-image-resources/blob/main/WOOD.png",
+  "description": "This is a test jetton! We are testing the jetton minter! And this is a description! A long one!",
+}
